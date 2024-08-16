@@ -12,7 +12,7 @@ This project involves the creation of an interactive Excel dashboard designed to
 - Pie chart displaying the distribution of sales across various product categories, such as coffee, tea, bakery items, etc., helping to understand product popularity.
 
 **Tools Used**: 
-- Microsoft Excel: Utilized for data processing, analysis, and the creation of the interactive dashboard.  
+- Microsoft Excel: Used Pivot table and charts to summarize and analyze large datasets, allowing for dynamic data exploration and visualize data trends, comparisons, and distributions, making the insights easily interpretable.   
 
 **Insights Derived**:  
 - Peak Sales Hours: Identified the busiest hours of operation, aiding in resource and inventory management.
